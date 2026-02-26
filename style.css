@@ -1,0 +1,16 @@
+body {
+  padding: 100px;
+}
+
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 1px;
+  width: 500px;
+  height: 500px;
+}
+
+.gridElement {
+  width: 20px;
+  height: 20px;
+}
