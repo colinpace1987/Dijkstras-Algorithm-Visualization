@@ -1,4 +1,4 @@
-s Grid {
+class Grid {
     constructor() {
       this.color = "white";
       this.limit = 25;
